@@ -1,5 +1,5 @@
 # animation
-[![Watch the video](https://img.youtube.com/vi/mpmDXd-NakA](https://youtu.be/mpmDXd-NakA)
+[![Watch the video](https://img.youtube.com/vi/mpmDXd-NakA/0.jpg)](https://www.youtube.com/watch?v=mpmDXd-NakA)
 
 ## Getting Started
 
