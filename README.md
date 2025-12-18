@@ -1,6 +1,5 @@
 # animation
-
-A new Flutter project.
+[![Watch the video](https://img.youtube.com/vi/mpmDXd-NakA](https://youtu.be/mpmDXd-NakA)
 
 ## Getting Started
 
